@@ -13,7 +13,7 @@ import java.io.IOException;
 @Component
 public class AuthUtil {
     /**
-     *添加了注释ideaeffffffffffw
+     *添加了注释ideaeffffffffffwddddddddddd
      */
 
     public static final String APPID="wxdf60633cea3de308";
